@@ -1,0 +1,23 @@
+.App-line {
+  min-height: 20px;
+}
+
+.App-line-min {
+  min-height: 1px;
+}
+
+.App-button {
+  width: 100px;
+}
+
+.App-button-wide {
+  width: 150px;
+}
+
+.App-alert-danger {
+  color: white;
+  background-color:#dc3545;
+  border-color: #dc3545
+}
+
+@import url(https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css);
